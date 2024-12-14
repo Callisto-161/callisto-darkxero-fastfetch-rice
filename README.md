@@ -6,6 +6,6 @@ post on reddit. I have tweaked the layout and appearance a bit, and added a cust
 
 It was through the help of reddit user u/Long-Squirrel6407, who reccomended me <a href="https://websim.ai/p/qqnmanhuzb6x49_ic33e">yet another cool webtool</a>, that I was able figure out how to colour in the custom ASCII logo.
 
-Also, forgot to mention, the font I'm using is <a href="https://www.nerdfonts.com/font-downloads">Iosevka Nerd Font</a>, and I would recommend you use it too if you want this to look good. If you want a different font I would reccomend at least sticking with nerd fonts so that the icons show up correctly.
+Also, forgot to mention, the font I'm using is <a href="https://www.nerdfonts.com/font-downloads">Iosevka Nerd Font</a>, and I would recommend you use it too if you want this to look good. If you want a different font I would recommend at least sticking with nerd fonts so that the icons show up correctly.
 
 ![Fastfetch](https://github.com/user-attachments/assets/2598eb07-ceba-4da2-95fc-ffbc8e5b1d73)
